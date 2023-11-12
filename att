@@ -1,15 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal1" tvg-name="Canal 1" tvg-logo="https://i.ibb.co/47hF091/tumblr-wallpaper.png" group-title="Esportes",Canal 1
 https://s-delivery32.mxdcontent.net/v/b55dcf026f0fb593f8e47eb5b0a87e81.mp4?s=cpoie0B60q28y4iiYDAbiw&e=1699782644&_t=1699770387
-
-#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" tvg-logo="https://i.ibb.co/47hF091/tumblr-wallpaper.png" group-title="Filmes",Canal 2
-https://s-delivery32.mxdcontent.net/v/b55dcf026f0fb593f8e47eb5b0a87e81.mp4?s=aVJDLYiH1Iv22yJfbHT0AA&e=1699782705&_t=1699770783
-
-#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" tvg-logo="https://i.ibb.co/47hF091/tumblr-wallpaper.png" group-title="Filmes 1 ",Canal 2
-https://s-delivery35.mxdcontent.net/v/c6051c033f08206fd783698b896c7967.mp4?s=zuMXsOrB-haKfdoce7vRNQ&e=1699789625&_t=1699774509
-
-#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" tvg-logo="https://i.ibb.co/47hF091/tumblr-wallpaper.png" group-title="Filmes 2 ",Canal 2
-https://s-delivery32.mxdcontent.net/v/b55dcf026f0fb593f8e47eb5b0a87e81.mp4?s=aVJDLYiH1Iv22yJfbHT0AA&e=1699782705&_t=1699770783
-
-#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" tvg-logo="https://i.ibb.co/47hF091/tumblr-wallpaper.png" group-title="Filmes 3 ",Canal 2
-https://s-delivery32.mxdcontent.net/v/b55dcf026f0fb593f8e47eb5b0a87e81.mp4?s=aVJDLYiH1Iv22yJfbHT0AA&e=1699782705&_t=1699770783
+#EXTINF:-1,iptvtools_1
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,iptvtools_2
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1,iptvtools_3
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1,iptvtools_4
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1,iptvtools_5
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1,iptvtools_6
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,iptvtools_7
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1,iptvtools_8
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1,iptvtools_9
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:-1,iptvtools_10
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1,iptvtools_11
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1,iptvtools_12
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1,iptvtools_13
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,iptvtools_14
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
