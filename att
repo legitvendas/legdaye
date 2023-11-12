@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,iptvtools_1
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-bh/edge-cache-token=Expires=1699882227&KeyName=media-cdn-keyset-prod&IPRanges=MTc3LjkyLjI0NC4xNDUvMzI=&Signature=GAm4gxBpHgoKBVkJGLTmg7uvkgYFdzoMsIO25f_JiN5ZZqDZG9INlhpRimfQv00kpkqAn-OhZwJa388NbzvZCg==/globo-bh-audio_1=128000-video=1552960.m3u8?dvr_window_length=120
 #EXTINF:-1,iptvtools_2
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,cdn tv
